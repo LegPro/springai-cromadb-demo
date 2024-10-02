@@ -133,11 +133,3 @@ springai-cromadb-demo/
 
 - You can modify the **Top-K** parameter in the `/search` endpoint to retrieve more or fewer results by adjusting the `withTopK(2)` method call.
 - The **`TokenTextSplitter`** used to split the documents can be customized to handle different tokenization strategies depending on your text data.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you encounter any bugs or have suggestions for improvement.
