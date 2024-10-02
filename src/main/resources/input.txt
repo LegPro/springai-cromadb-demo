@@ -1,0 +1,102 @@
+Here are 100 book titles with one-line descriptions:
+
+1. 1984 by George Orwell - A dystopian novel exploring government surveillance and totalitarianism.
+2. To Kill a Mockingbird by Harper Lee - A story of racial injustice in the American South through the eyes of a young girl.
+3. The Great Gatsby by F. Scott Fitzgerald - A critique of the American Dream set in the Roaring Twenties.
+4. Pride and Prejudice by Jane Austen - A romantic novel about love, class, and social expectations in 19th-century England.
+5. Moby Dick by Herman Melville - A sailor’s narrative of obsession and revenge against a giant white whale.
+6. War and Peace by Leo Tolstoy - A sweeping epic of Russian society during the Napoleonic Wars.
+7. The Catcher in the Rye by J.D. Salinger - A coming-of-age story of teenage alienation and rebellion.
+8. The Hobbit by J.R.R. Tolkien - A fantasy adventure about a hobbit's quest to reclaim a lost treasure from a dragon.
+9. The Lord of the Rings by J.R.R. Tolkien - A high fantasy epic of the battle between good and evil in Middle-earth.
+10. The Brothers Karamazov by Fyodor Dostoevsky - A deep philosophical novel exploring faith, doubt, and free will.
+11. Crime and Punishment by Fyodor Dostoevsky - A psychological thriller about a man grappling with the morality of murder.
+12. Brave New World by Aldous Huxley - A dystopian novel depicting a future where people are controlled by pleasure and technology.
+13. The Odyssey by Homer - An ancient epic poem about Odysseus' ten-year journey home after the Trojan War.
+14. The Iliad by Homer - The story of the Trojan War and the Greek hero Achilles' role in it.
+15. Frankenstein by Mary Shelley - The tale of a scientist who creates a living being, only to face tragic consequences.
+16. Dracula by Bram Stoker - A Gothic horror novel about a vampire's attempt to spread his curse across England.
+17. Jane Eyre by Charlotte Brontë - A novel about a woman's quest for independence and love in 19th-century England.
+18. Wuthering Heights by Emily Brontë - A dark tale of passionate but destructive love on the Yorkshire moors.
+19. Don Quixote by Miguel de Cervantes - A comic novel about a man who believes he is a knight on a quest for chivalry.
+20. Les Misérables by Victor Hugo - A French epic of redemption, love, and revolution in 19th-century Paris.
+21. The Picture of Dorian Gray by Oscar Wilde - A cautionary tale of vanity and moral decay.
+22. Anna Karenina by Leo Tolstoy - A tragic love story set against the backdrop of Russian high society.
+23. One Hundred Years of Solitude by Gabriel García Márquez - A magical realist saga of a family’s rise and fall in a fictional Latin American town.
+24. Fahrenheit 451 by Ray Bradbury - A dystopian novel about a future where books are banned and burned.
+25. The Alchemist by Paulo Coelho - A philosophical tale about a boy’s journey to find his personal destiny.
+26. The Old Man and the Sea by Ernest Hemingway - A short novel about an old fisherman’s epic battle with a giant marlin.
+27. Ulysses by James Joyce - A modernist novel that parallels the Odyssey through one day in Dublin.
+28. Catch-22 by Joseph Heller - A satirical novel about the absurdities of war and military bureaucracy.
+29. The Grapes of Wrath by John Steinbeck - A story of the struggles of migrant workers during the Great Depression.
+30. The Metamorphosis by Franz Kafka - A surreal novella about a man who wakes up transformed into a giant insect.
+31. Invisible Man by Ralph Ellison - A novel about race and identity in America through the eyes of an unnamed protagonist.
+32. Lolita by Vladimir Nabokov - A controversial novel about a man's obsession with a young girl.
+33. The Divine Comedy by Dante Alighieri - An epic poem detailing a journey through Hell, Purgatory, and Heaven.
+34. Great Expectations by Charles Dickens - A bildungsroman about an orphan’s rise to gentility in Victorian England.
+35. David Copperfield by Charles Dickens - A semi-autobiographical novel about an orphan's journey to maturity.
+36. Madame Bovary by Gustave Flaubert - A novel about a woman’s dissatisfaction with provincial life and her quest for passion.
+37. The Stranger by Albert Camus - A novel about existentialism and the absurdity of life and death.
+38. Of Mice and Men by John Steinbeck - A tragic story of friendship and dreams among displaced ranch workers.
+39. Gone with the Wind by Margaret Mitchell - A historical romance set during the American Civil War and Reconstruction.
+40. Heart of Darkness by Joseph Conrad - A novella exploring colonialism and the darkness within humanity.
+41. Slaughterhouse-Five by Kurt Vonnegut - A science-fiction novel about time travel and the horrors of war.
+42. A Tale of Two Cities by Charles Dickens - A novel set during the French Revolution focusing on themes of sacrifice and redemption.
+43. The Sun Also Rises by Ernest Hemingway - A novel about the disillusionment of the Lost Generation after World War I.
+44. Beloved by Toni Morrison - A haunting story of slavery and its legacy on one woman's life.
+45. The Sound and the Fury by William Faulkner - A modernist novel told from multiple perspectives about a Southern family’s decline.
+46. Mansfield Park by Jane Austen - A novel exploring the themes of class, marriage, and morality in early 19th-century England.
+47. The Scarlet Letter by Nathaniel Hawthorne - A tale of sin, guilt, and redemption in Puritan America.
+48. The Count of Monte Cristo by Alexandre Dumas - A swashbuckling tale of revenge and adventure.
+49. Uncle Tom's Cabin by Harriet Beecher Stowe - An anti-slavery novel that played a role in shaping public opinion before the Civil War.
+50. The Kite Runner by Khaled Hosseini - A story of friendship, betrayal, and redemption set in Afghanistan.
+51. The Road by Cormac McCarthy - A post-apocalyptic novel about a father and son’s struggle to survive.
+52. Dune by Frank Herbert - A science-fiction epic about politics, religion, and ecology on a desert planet.
+53. Siddhartha by Hermann Hesse - A novel about a man's spiritual journey toward enlightenment.
+54. A Clockwork Orange by Anthony Burgess - A dystopian novel about free will and moral choice in a violent society.
+55. Gulliver’s Travels by Jonathan Swift - A satirical adventure exploring human nature through the eyes of a traveler.
+56. The Handmaid's Tale by Margaret Atwood - A dystopian novel about a society where women’s rights are stripped away.
+57. The Call of the Wild by Jack London - A tale of survival and instinct in the wilderness of the Yukon.
+58. The Jungle by Upton Sinclair - A novel exposing the harsh conditions and exploitation of immigrants in the meatpacking industry.
+59. Life of Pi by Yann Martel - A philosophical tale of survival at sea with a Bengal tiger.
+60. Rebecca by Daphne du Maurier - A Gothic thriller about a woman haunted by her husband's first wife.
+61. The Secret Garden by Frances Hodgson Burnett - A children's novel about friendship and healing in a mysterious garden.
+62. Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson - A novella about the dual nature of man and the battle between good and evil.
+63. The Adventures of Huckleberry Finn by Mark Twain - A novel about a boy's journey down the Mississippi River and his moral development.
+64. The Bell Jar by Sylvia Plath - A semi-autobiographical novel exploring mental illness and societal expectations.
+65. Treasure Island by Robert Louis Stevenson - A classic adventure tale of pirates and buried treasure.
+66. A Farewell to Arms by Ernest Hemingway - A love story set against the backdrop of World War I.
+67. The Little Prince by Antoine de Saint-Exupéry - A philosophical children's tale about innocence and the meaning of life.
+68. Charlotte's Web by E.B. White - A children's novel about friendship between a pig and a spider on a farm.
+69. A Portrait of the Artist as a Young Man by James Joyce - A coming-of-age novel exploring the development of an artist.
+70. The Time Machine by H.G. Wells - A science-fiction novel about a man who invents a machine to travel through time.
+71. Middlemarch by George Eliot - A novel exploring politics, society, and human relationships in 19th-century England.
+72. Atlas Shrugged by Ayn Rand - A philosophical novel promoting Objectivism and individualism.
+73. Animal Farm by George Orwell - A political allegory about a group of farm animals who overthrow their human farmer.
+74. East of Eden by John Steinbeck - A multigenerational saga of two families in California’s Salinas Valley.
+75. The Shining by Stephen King - A horror novel about a haunted hotel and its effects on a family.
+76. The Outsiders by S.E. Hinton - A novel about teenage gangs, friendship, and identity.
+77. Little Women by Louisa May Alcott - A coming-of-age story about four sisters growing up during the Civil War.
+78. The Hitchhiker’s Guide to the Galaxy by Douglas Adams - A comedic science-fiction adventure about intergalactic travel.
+79. The Girl with the Dragon Tattoo by Stieg Larsson - A mystery thriller about a journalist and a hacker solving a decades-old disappearance.
+80. The Da Vinci Code by Dan Brown - A mystery thriller involving a secret society and a hidden religious truth.
+81. The Hunger Games by Suzanne Collins - A dystopian novel about a girl who participates in a televised death match.
+82. The Fault in Our Stars by John Green - A young adult novel about two teenagers falling in love while battling cancer.
+83. The Martian by Andy Weir - A science-fiction novel about an astronaut stranded on Mars and his fight for survival.
+84. Ender’s Game by Orson Scott Card - A science-fiction novel about a boy training to defend Earth from alien invaders.
+85. The Lovely Bones by Alice Sebold - A novel about a murdered girl observing her family from the afterlife.
+86. The Goldfinch by Donna Tartt - A novel about a boy whose life is changed after surviving a museum bombing.
+87. A Game of Thrones by George R.R. Martin - A fantasy novel about the struggle for power in the Seven Kingdoms of Westeros.
+88. Memoirs of a Geisha by Arthur Golden - A historical novel about a young girl's transformation into a famous geisha.
+89. The Book Thief by Markus Zusak - A World War II novel narrated by Death, focusing on a young girl’s love of books.
+90. The Help by Kathryn Stockett - A novel about the lives of African American maids working in white households in 1960s Mississippi.
+91. The Night Circus by Erin Morgenstern - A magical novel about a circus that appears without warning and is the stage for a contest.
+92. Where the Crawdads Sing by Delia Owens - A novel about a young girl growing up alone in the marshes of North Carolina.
+93. Water for Elephants by Sara Gruen - A love story set in a traveling circus during the Great Depression.
+94. Big Little Lies by Liane Moriarty - A novel about the secrets of three suburban mothers and a mysterious death.
+95. The Immortal Life of Henrietta Lacks by Rebecca Skloot - The true story of the woman whose cells revolutionized medical science.
+96. Educated by Tara Westover - A memoir about a woman’s journey from growing up in an isolated, survivalist family to earning a PhD.
+97. Becoming by Michelle Obama - A memoir of the former First Lady's life from her childhood to her role in the White House.
+98. The Power of Habit by Charles Duhigg - A book exploring the science of habits and how they shape our lives.
+99. Sapiens: A Brief History of Humankind by Yuval Noah Harari - A historical exploration of humanity’s rise from the Stone Age to modern civilization.
+100. Thinking, Fast and Slow by Daniel Kahneman - A book about the two systems of thinking that shape our decisions and judgments.
